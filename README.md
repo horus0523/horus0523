@@ -7,15 +7,11 @@
 <h1 align="center">Hello! 👋 I'm Horus Chourio</h1>
 <h3 align="center">Cloud DevOps Engineer | Infrastructure Automation Expert | Open to Collaboration</h3>
 
-<div align="center" style="max-width: 1000px; margin: 0 auto;">
-  <img style="max-width: 940px; width: 100%; height: auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7¢er=true&vCenter=true&width=940&lines=Cloud+DevOps+Engineer;Infrastructure+Automation+Expert;Building+Scalable+Solutions;Let's+Code+Together!" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=horus0523&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<div align="center" style="max-width: 600px; margin: 0 auto;">
+<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/horus-chourio)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horus0523@gmail.com)
