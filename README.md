@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7¢er=true&vCenter=true&width=940&lines=Cloud+DevOps+Engineer;Infrastructure+Automation+Expert;Building+Scalable+Solutions;Let's+Code+Together!" alt="Typing SVG" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGUvc9xmFOCbQ/profile-displaybackgroundimage-shrink_350_1400/B4DZfTbro1HAAY-/0/1751598939980?e=1756944000&v=beta&t=XBfXMRtpc-ig4gAnibbebnzHXyj6QXmOJvxDg4EtKGo" alt="Typing SVG" />
 </div>
 
 ---
+
 <h1 align="center">Hello! 👋 I'm Horus Chourio</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Cloud+DevOps+Engineer;Infrastructure+Automation+Expert;Building+Scalable+Solutions;Let's+Code+Together!" alt="Typing SVG" />
+</div>
+
+
 <h3 align="center">Cloud DevOps Engineer | Infrastructure Automation Expert | Open to Collaboration</h3>
 
 <p align="center">
