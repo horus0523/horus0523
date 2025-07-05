@@ -7,7 +7,7 @@
 <h1 align="center">Hello! 👋 I'm Horus Chourio</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Cloud+DevOps+Engineer;Infrastructure+Automation+Expert;Building+Scalable+Solutions;Let's+Code+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7¢er=true&vCenter=true&width=940&lines=Cloud+DevOps+Engineer;Infrastructure+Automation+Expert;Building+Scalable+Solutions;Let's+Code+Together!" alt="Typing SVG" />
 </div>
 
 
@@ -60,81 +60,69 @@
 
 ## 🎯 Summary
 
-DevOps Engineer focused on infrastructure automation, CI/CD pipelines, and cloud environment management on AWS. With over a year of hands-on experience in real-world projects using tools like Terraform, GitHub Actions, Python, Jira, Docker, and other technologies, I have built scalable, reproducible, and secure solutions that accelerate software delivery and improve operational efficiency.
+<p align="justify">
+  DevOps Engineer focused on infrastructure automation, CI/CD pipelines, and cloud environment management on AWS. With over a year of hands-on experience in real-world projects using tools like Terraform, GitHub Actions, Python, Jira, Docker, and other technologies, I have built scalable, reproducible, and secure solutions that accelerate software delivery and improve operational efficiency.
+</p>
 
-My work streamlines the Dev → Prod lifecycle by implementing Infrastructure as Code (IaC), designing robust pipelines, and container orchestration across multi-environment deployments. I also developed integrations between JIRA and GitHub to achieve full development lifecycle traceability.
+<p align="justify">
+  My work streamlines the Dev → Prod lifecycle by implementing Infrastructure as Code (IaC), designing robust pipelines, and container orchestration across multi-environment deployments. I also developed integrations between JIRA and GitHub to achieve full development lifecycle traceability.
+</p>
 
 ---
 
 ## 💡 Featured Projects
 
-<div align="center" style="max-width: 1000px; margin: 0 auto;">
-  
+<p align="center" style="margin-bottom: 10px;">
   <a href="https://github.com/horus0523/jira-ticket-automation-via-github-integration">
-    <img style="max-width: 480px; width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=jira-ticket-automation-via-github-integration&theme=radical&hide_border=true" alt="Jira Ticket Automation" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=jira-ticket-automation-via-github-integration&theme=radical&hide_border=true" alt="Jira Ticket Automation" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/horus0523/Infrastructure-Automation-with-Terraform-and-AWS">
-    <img style="max-width: 480px; width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=Infrastructure-Automation-with-Terraform-and-AWS&theme=radical&hide_border=true" alt="Infrastructure Automation" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=Infrastructure-Automation-with-Terraform-and-AWS&theme=radical&hide_border=true" alt="Infrastructure Automation" />
   </a>
-  
-</div>
+</p>
 
-<div align="center" style="max-width: 1000px; margin: 0 auto;">
-  
+<p align="center" style="margin-top: 10px;">
   <a href="https://github.com/horus0523/github-actions-self-hosted-runners">
-    <img style="max-width: 480px; width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=github-actions-self-hosted-runners&theme=radical&hide_border=true" alt="GitHub Actions Self-Hosted Runners" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=github-actions-self-hosted-runners&theme=radical&hide_border=true" alt="GitHub Actions Self-Hosted Runners" />
   </a>
-  
-</div>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div style="display: flex; width: 100%; max-width: 1000px; gap: 2px; margin: 0 auto;">
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=horus0523&show_icons=true&theme=radical&hide_border=true&card_width=430" alt="GitHub Stats" height="180" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horus0523&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
 
-  <!-- Left block -->
-  <div style="flex: 1; border: none; padding: 0; margin: 0; max-width: 500px;">
-    <img width="100%" style="max-width: 500px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=horus0523&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <br/>
-    <img width="100%" style="max-width: 500px; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=horus0523&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </div>
-
-  <!-- Right block -->
-  <div style="flex: 1; border: none; padding: 0; margin: 0; max-width: 500px; display: flex; align-items: stretch;">
-    <img style="max-width: 500px; width: 100%; height: auto; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horus0523&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </div>
-
-</div>
+<p align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horus0523&layout=compact&theme=radical&hide_border=true&card_width=860" alt="Top Languages" width="880" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center" style="max-width: 1000px; margin: 0 auto;">
-  
-  <img style="max-width: 1000px; width: 100%; height: auto;" src="https://github-profile-trophy.vercel.app/?username=horus0523&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=horus0523&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="1000" />
+</p>
 
 ---
 
 ## 📈 Recent Activity
 
-<div align="center" style="max-width: 1000px; margin: 0 auto;">
-  
-  <img style="max-width: 1000px; width: 100%; height: auto;" src="https://github-readme-activity-graph.vercel.app/graph?username=horus0523&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horus0523&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="1000" />
+</p>
 
 ---
 
 ## 🎯 Currently
 
-- 🌱 **Learning:** Advanced Cloud Architecture & Infrastructure as Code
-- 🔭 **Working on:** Infrastructure automation with Terraform and AWS
-- 👯 **Collaborating on:** GitHub-Jira integration and CI/CD projects
-- 💬 **Ask me about:** AWS, Terraform, Ansible, DevOps, Kubernetes
-- ⚡ **Fun fact:** I specialize in automation and integration of DevOps tools
-
+- 🌱 **Aprendiendo:** Advanced Cloud Architecture & Infrastructure as Code
+- 🔭 **Trabajando en:** Automatización de infraestructura con Terraform y AWS
+- 👯 **Colaborando:** En proyectos de integración GitHub-Jira y CI/CD
+- 💬 **Pregúntame sobre:** AWS, Terraform, Ansible, DevOps, Kubernetes
+- ⚡ **Dato curioso:** Me especializo en automatización e integración de herramientas DevOps
 ---
