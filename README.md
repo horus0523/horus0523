@@ -123,5 +123,4 @@
 - 👯 **Collaborating on:** GitHub-Jira integration and CI/CD projects
 - 💬 **Ask me about:** AWS, Terraform, Ansible, DevOps, Kubernetes
 - ⚡ **Fun fact:** I specialize in automation and integration of DevOps tools
-
 ---
