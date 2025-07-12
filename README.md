@@ -8,7 +8,7 @@
 <h3 align="center">Cloud DevOps Engineer | Infrastructure Automation Expert | Open to Collaboration</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Cloud+DevOps+Engineer;Infrastructure+Automation+Expert;Building+Scalable+Solutions;Let's+Code+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7¢er=true&vCenter=true&width=940&lines=Cloud+DevOps+Engineer;Infrastructure+Automation+Expert;Building+Scalable+Solutions;Let's+Code+Together!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -82,6 +82,12 @@
 <p align="center" style="margin-top: 10px;">
   <a href="https://github.com/horus0523/github-actions-self-hosted-runners">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=github-actions-self-hosted-runners&theme=radical&hide_border=true" alt="GitHub Actions Self-Hosted Runners" />
+  </a>
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <a href="https://github.com/horus0523/ansible-ec2-automator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horus0523&repo=ansible-ec2-automator&theme=radical&hide_border=true" alt="ansible-ec2-automator" />
   </a>
 </p>
 
